@@ -1,0 +1,5 @@
+db:
+  name: gormdemo
+  username: root
+  password:  #your password
+  addr: 127.0.0.1
